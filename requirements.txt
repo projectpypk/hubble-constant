@@ -1,5 +1,5 @@
 streamlit
 matplotlib
-tkinter
+tk
 numpy
 pandas
